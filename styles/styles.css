@@ -1,7 +1,11 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> bb86d6a (COlor rojo cabecera)
     font-size: 16px;
     margin: 0;
     padding: 0;
