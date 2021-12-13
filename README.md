@@ -14,4 +14,4 @@ Un blog increible para el [Curso de Git y Github](https://platzi.com/clases/git-
 - Trucos del buen Freddy
 - Las personalidades multiples de Freddy como Anita XD
 
-Esto solo es una practica para crear README.MD con un editor por [ahi](http://https://pandao.github.io/editor.md/en.html "ahi").
+Esto solo es una practica para crear README.MD con un editor por [ahi](http://pandao.github.io/editor.md/en.html "ahi").
